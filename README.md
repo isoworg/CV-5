@@ -1,13 +1,22 @@
 <h1 align="center">Shannon Gamby</h1>
-  
-In 2017, I graduated from Warwick University with a Masters degree (with honours) in Biomedical Science. I discovered the world of coding during my final year of University and realised that whilst carrying out scientific research would satisfy my appetite for solving problems it would not satisfy my desire to create. Coding, however, does both of those things and is something I'm incredibly passionate about pursuing. 
+ 
+[Projects ](#projects) | 
+[Background ](#background) |
+[Skills ](#skills) | 
+[Education ](#education) | 
+[Interests ](#interests)
+
+I am a full-stack junior developer, recently graduated from Makers, and am looking for a role where I can continue to learn and grow at a rapid pace.
 
 ## Projects
+
 | Title | Description | Technologies | Testing | Timeframe |
 |--|--|--|--|--|
 | [Developer Pub Quiz](https://github.com/shannongamby/developer-pub-quiz) | For our final project, my group created a quiz app, which pits two players against each other to test their development knowledge. We suggest the loser owes the winner a pint and uses the built-in map functionality to help them find the nearest pub! | ReactJS, HTML/CSS, Google Maps API, TravisCI, Heroku | Jest + Enzyme, Cypress | 2 weeks |
 | [Exponential Notes](https://github.com/shannongamby/exponential-notes) | My group built a single page notes app with vanilla JavaScript, using the JS module pattern and absolutely no frameworks. In order to test-drive, we created our own test suite. | JavaScript, HTML/CSS | Exponential Tests | 1 week |
 
+## Background
+In 2017, I graduated from Warwick University with a Masters degree in Biomedical Science. I discovered the world of coding during my final year of University and realised that whilst carrying out scientific research would satisfy my appetite for solving problems it would not satisfy my desire to create. Coding, however, does both of those things and is something I'm incredibly passionate about pursuing.
 
 ## Skills
 
@@ -26,10 +35,18 @@ Throughout this process I was mentored by PhD students but, due to circumstances
 #### Makers Academy (September 2018 to December 2018)
 
 A 16-week intensive development bootcamp.
-- [insert skills learnt]
+- TDD, OOD
+- Agile / XP
+- Ruby, Rails, Sinatra, RSpec, Capybara
+- JavaScript, ReactJS, Express, Jasmine, Jest
 
 #### University of Warwick (September 2013 to July 2017)
 
 - MBio Biomedical Science (with Honours): 2:1
 - Presenter at the Festival of Imagination, a science fair for families and schools, hosted by the University of Warwick
 - Awarded a grant in the summer of 2015 from URSS to undertake research in drug targeting
+
+## Interests
+- I love Harry Potter, playing video games, and eating BBQ Chicken Ramen from Bento Bab (highly recommend)
+- I'm learning German and Korean (super hard, super fun)
+- I wish I was better at playing piano (maybe one day...)
