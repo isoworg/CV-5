@@ -10,10 +10,10 @@ I am a full-stack junior developer, recently graduated from Makers, and am looki
 
 ## Projects
 
-| Title | Description | Technologies | Testing | Timeframe |
-|--|--|--|--|--|
-| [Developer Pub Quiz](https://github.com/shannongamby/developer-pub-quiz) | For our final project, my group created a quiz app, which pits two players against each other to test their development knowledge. We suggest the loser owes the winner a pint and uses the built-in map functionality to help them find the nearest pub! | ReactJS, HTML/CSS, Google Maps API, TravisCI, Heroku | Jest + Enzyme, Cypress | 2 weeks |
-| [Exponential Notes](https://github.com/shannongamby/exponential-notes) | My group built a single page notes app with vanilla JavaScript, using the JS module pattern and absolutely no frameworks. In order to test-drive, we created our own test suite. | JavaScript, HTML/CSS | Exponential Tests | 1 week |
+| Title | Description | Technologies | Testing | Timeframe | Type |
+|--|--|--|--|--|--|
+| [Developer Pub Quiz](https://github.com/shannongamby/developer-pub-quiz) | For our final project, my group created a quiz app, which pits two players against each other to test their development knowledge. We suggest the loser owes the winner a pint and uses the built-in map functionality to help them find the nearest pub! | ReactJS, HTML/CSS, Google Maps API, TravisCI, Heroku | Jest + Enzyme, Cypress | 2 weeks | Group Project |
+| [Exponential Notes](https://github.com/shannongamby/exponential-notes) | My group built a single page notes app with vanilla JavaScript, using the JS module pattern and absolutely no frameworks. In order to test-drive, we created our own test suite. | JavaScript, HTML/CSS | Exponential Tests | 1 week | Group Project |
 
 ## Background
 In 2017, I graduated from Warwick University with a Masters degree in Biomedical Science. I discovered the world of coding during my final year of University and realised that whilst carrying out scientific research would satisfy my appetite for solving problems it would not satisfy my desire to create. Coding, however, does both of those things and is something I'm incredibly passionate about pursuing.
@@ -39,6 +39,7 @@ A 16-week intensive development bootcamp.
 - Agile / XP
 - Ruby, Rails, Sinatra, RSpec, Capybara
 - JavaScript, ReactJS, Express, Jasmine, Jest
+- PostgreSQL
 
 #### University of Warwick (September 2013 to July 2017)
 
