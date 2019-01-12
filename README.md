@@ -25,22 +25,22 @@ In 2017, I graduated from Warwick University with a Masters degree in Biomedical
 
 ## Skills
 
-#### Clean Coder
+#### _Clean Coder_
 
 **Makers (September to December 2018)** During my time at Makers I learned about the importance of having an efficient and a readable codebase. Throughout the course I utilised programming principles such as SOLID and DRY, practiced using XP Values in group situations to ensure everyone was on the same wavelength, and used TDD/BDD to lower the risk of introducing bugs. 
 I truly believe in this approach to software development and hope to work with others that respect it as much as I do.
 
-#### Communication and Teamwork
+#### _Communication and Teamwork_
 
 **Makers (September to December 2018)**  At Makers I had the opportunity to work with a very diverse group of people. I paired with someone new every day, which meant that between completing features I would often have to ramp up my new pair on what we were trying to achieve, as well as what had been done so far. This has allowed me to hone my ability to communicate complex ideas in a concise way.   
 
 Group projects were also a regular occurence and we organised our own stand-ups and retros to ensure the team had effective communication. Good communcation is imperative for an agile team to respond to changing environments; if you can communicate, you can do anything!
 
-#### Problem Solving
+#### _Problem Solving_
 
 **Masters (2016 – 2017)** During my Masters year I worked independently in Dr. Emma Anderson’s laboratory (University of Warwick) and focused on comparing the difference in HIV-1 and HIV-2 particle assembly. Throughout this year, as the project was largely student-led, I developed my ability to troubleshoot problems. With each experiment I carried out, I gained more experience with how to approach problems; I became better at asking specific questions when something wasn't working, I learnt when and how to ask for help, and was able to recognise when solutions I came up with in the past would work again. 
 
-#### Adaptability
+#### _Adaptability_
 
 **URSS (July to August 2015)** In the summer of 2015 I put together a research proposal in order to be considered for a place on the Undergraduate Research Support Scheme (URSS) at the University of Warwick. I was awarded the grant and worked for 6 weeks in the laboratory of Dr. David Roper (University of Warwick) investigating specific protein domains in *Enterococcus faecalis* and their potential to be exploited as drug targets. 
 
